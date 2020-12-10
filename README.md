@@ -27,14 +27,9 @@
   <p align="center">
     List of tools for Computational Science, Mathematics and Engineering
     <br />
-    <a href="https://github.com/ashwin-nayak/awesome-computational-science"><strong>Explore the docs »</strong></a>
+    OPEN SOURCE CONTENT ONLY!
     <br />
-    <br />
-    <a href="https://www.ashwinsnayak.com/links/20190517-open-source-software">View on Web</a>
-    ·
-    <a href="https://github.com/ashwin-nayak/awesome-computational-science/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ashwin-nayak/awesome-computational-science/issues">Request Feature</a>
+    <a href="https://github.com/ashwin-nayak/awesome-computational-science/issues">Contribute</a>
   </p>
 </p>
 
@@ -50,6 +45,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul> -->
     </li>
+    <li><a href="#programming-for-performance">Programming for performance</a></li>
     <li><a href="#simulation-solvers">Simulation Solvers</a></li>
     <li><a href="#optimization-toolkits">Optimization Toolkits</a></li>
     <li><a href="#visualization-tools">Visualization Tools</a></li>
@@ -64,6 +60,16 @@
 
 
 <!-- GETTING STARTED -->
+
+
+## Programming for Performance
+- [How to write Fast Numeric Code](https://acl.inf.ethz.ch/teaching/fastcode/) - ETH Zurich Course. 
+- [Cornell Virtual Workshop](https://cvw.cac.cornell.edu/topics) - Numerous tutorials/guides from beginner to advanced. 
+- [Texas Advanced Computing Center](https://learn.tacc.utexas.edu/) - Online courses on parallel programming/HPC
+- [CSCS.ch on Youtube](https://www.youtube.com/user/cscsch/playlists) - Youtube Videos with plenty useful HPC/Adv programmming content.
+
+
+
 ## Mesh Tools
 
 - [SALOME](https://www.salome-platform.org/) - Meshing software with a Python interface.
@@ -77,7 +83,7 @@
 - [OpenFOAM](https://openfoam.org/) - Popular C++ solver for fluid dynamics.
 - [FEniCS](https://fenicsproject.org/) - Popular C++ Finite Element library with a Python API.
 - [Pencil-Code](https://github.com/pencil-code/pencil-code) - FORTRAN based high-order finite difference solver for compressible flows.
-
+- [VCell](https://vcell.org/) - Biological Systems modelling
 
 
 ## Optimization Toolkits
@@ -105,7 +111,7 @@
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contributions
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -118,13 +124,13 @@ Distributed under the CC0 License. See [`LICENSE`](https://github.com/ashwin-nay
 
 
 
-<!-- CONTACT -->
+<!-- CONTACT
 ## Contact
 
 Ashwin Nayak - [@4sh_N](https://twitter.com/4sh_N) - ashwin.nayak[at]udc.es
 
 Project Link: [https://github.com/ashwin-nayak/awesome-computational-science](https://github.com/ashwin-nayak/awesome-computational-science)
-
+ -->
 
 <!-- 
 ACKNOWLEDGEMENTS
