@@ -11,7 +11,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -70,20 +69,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`ashwin-nayak`, `awesome-computational-science`, `4sh_N`, `email`, `awesome computational science`, `List of tools for Computational Science, Mathematics and Engineering`
-
-
-### Built With
-
-* []()
-* []()
-* []()
-
 
 
 <!-- GETTING STARTED -->
@@ -179,6 +164,4 @@ Project Link: [https://github.com/ashwin-nayak/awesome-computational-science](ht
 [issues-shield]: https://img.shields.io/github/issues/ashwin-nayak/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/ashwin-nayak/repo/issues
 [license-shield]: https://img.shields.io/github/license/ashwin-nayak/repo.svg?style=for-the-badge
-[license-url]: https://github.com/ashwin-nayak/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ashwin-nayak
+[license-url]: https://github.com/ashwin-nayak/repo/blob/main/LICENSE.txt
