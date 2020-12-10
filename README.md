@@ -86,7 +86,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Clone the repo
+1. Clone the awesome-computational-science
    ```sh
    git clone https://github.com/ashwin-nayak/awesome-computational-science.git
    ```
@@ -155,13 +155,13 @@ Project Link: [https://github.com/ashwin-nayak/awesome-computational-science](ht
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ashwin-nayak/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/ashwin-nayak/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ashwin-nayak/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/ashwin-nayak/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/ashwin-nayak/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/ashwin-nayak/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ashwin-nayak/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/ashwin-nayak/repo/issues
-[license-shield]: https://img.shields.io/github/license/ashwin-nayak/repo.svg?style=for-the-badge
-[license-url]: https://github.com/ashwin-nayak/repo/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ashwin-nayak/awesome-computational-science.svg?style=for-the-badge
+[contributors-url]: https://github.com/ashwin-nayak/awesome-computational-science/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ashwin-nayak/awesome-computational-science.svg?style=for-the-badge
+[forks-url]: https://github.com/ashwin-nayak/awesome-computational-science/network/members
+[stars-shield]: https://img.shields.io/github/stars/ashwin-nayak/awesome-computational-science.svg?style=for-the-badge
+[stars-url]: https://github.com/ashwin-nayak/awesome-computational-science/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ashwin-nayak/awesome-computational-science.svg?style=for-the-badge
+[issues-url]: https://github.com/ashwin-nayak/awesome-computational-science/issues
+[license-shield]: https://img.shields.io/github/license/ashwin-nayak/awesome-computational-science.svg?style=for-the-badge
+[license-url]: https://github.com/ashwin-nayak/awesome-computational-science/blob/main/LICENSE.txt
