@@ -62,61 +62,59 @@
 </details>
 
 
+
 <!-- GETTING STARTED -->
-## Mesh Tools :
+## Mesh Tools
 
-[SALOME](https://www.salome-platform.org/) - Meshing software with a Python interface.
+- [SALOME](https://www.salome-platform.org/) - Meshing software with a Python interface.
+- [meshIO](https://github.com/nschloe/meshio) - To convert between many mesh formats.
 
-[meshIO](https://github.com/nschloe/meshio) - To convert between many mesh formats.
 
-## Simulation solvers :
 
-[SU2](https://su2code.github.io/) - A quick-start multiphysics simulation tool.
+## Simulation solvers
 
-[OpenFOAM](https://openfoam.org/) - Popular C++ solver for fluid dynamics.
+- [SU2](https://su2code.github.io/) - A quick-start multiphysics simulation tool.
+- [OpenFOAM](https://openfoam.org/) - Popular C++ solver for fluid dynamics.
+- [FEniCS](https://fenicsproject.org/) - Popular C++ Finite Element library with a Python API.
+- [Pencil-Code](https://github.com/pencil-code/pencil-code) - FORTRAN based high-order finite difference solver for compressible flows.
 
-[FEniCS](https://fenicsproject.org/) - Popular C++ Finite Element library with a Python API.
 
-[Pencil-Code](https://github.com/pencil-code/pencil-code) - FORTRAN based high-order finite difference solver for compressible flows.
 
-## Optimization Toolkits :
+## Optimization Toolkits
 
-[Casadi](https://web.casadi.org/) - Optimization and Algorithmic Differentiation framework.
+- [Casadi](https://web.casadi.org/) - Optimization and Algorithmic Differentiation framework.
+- [JAX](https://opensource.google/projects/jax) - Python package for JIT and Algorithmic Differentiation.
+- [COIN-OR](https://www.coin-or.org/) - A collection of Open-source Optimization tools.
+-
 
-[JAX](https://opensource.google/projects/jax) - Python package for JIT and Algorithmic Differentiation.
 
-[COIN-OR](https://www.coin-or.org/) - A collection of Open-source Optimization tools.
 
-## Visualization Tools :
+## Visualization Tools
 
-[Plotly](https://plot.ly/python) and [Dash](https://dash.plot.ly/) - Plotting libraries available in various languages.
+- [Plotly](https://plot.ly/python) and [Dash](https://dash.plot.ly/) - Plotting libraries available in various languages.
+- [Paraview](https://www.paraview.org/) - An all-purpose Visualization tool which is sophisticated, yet simple to use. 
 
-[Paraview](https://www.paraview.org/) - An all-purpose Visualization tool which is sophisticated, yet simple to use. 
 
-## Documentation Tools :
 
-[Pandoc](https://pandoc.org/) - Swiss-army knife for maitaining portable documentation.
+## Documentation Tools
 
-[IPE Editor](http://ipe.otfried.org/) - Vector graphics canvas to produce publishing quality illustrations.
+- [Pandoc](https://pandoc.org/) - Swiss-army knife for maitaining portable documentation.
+- [IPE Editor](http://ipe.otfried.org/) - Vector graphics canvas to produce publishing quality illustrations.
+- [MkDocs](https://www.mkdocs.org/) - Markdown-based software documentation and manuals.
 
-[MkDocs](https://www.mkdocs.org/) - Markdown-based software documentation and manuals.
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the CC0 License. See [`LICENSE`](https://github.com/ashwin-nayak/awesome-computational-science/blob/main/LICENSE.txt) file for more information.
 
 
 
