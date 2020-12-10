@@ -85,7 +85,7 @@
 - [Casadi](https://web.casadi.org/) - Optimization and Algorithmic Differentiation framework.
 - [JAX](https://opensource.google/projects/jax) - Python package for JIT and Algorithmic Differentiation.
 - [COIN-OR](https://www.coin-or.org/) - A collection of Open-source Optimization tools.
--
+- [OSQP](https://osqp.org/) - A Quadratic Programming solver (NEW!)
 
 
 
