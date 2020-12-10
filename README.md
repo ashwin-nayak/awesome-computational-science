@@ -6,6 +6,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -29,7 +30,7 @@
     <a href="https://github.com/ashwin-nayak/awesome-computational-science"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ashwin-nayak/awesome-computational-science">View Demo</a>
+    <a href="https://www.ashwinsnayak.com/links/20190517-open-source-software">View on Web</a>
     ·
     <a href="https://github.com/ashwin-nayak/awesome-computational-science/issues">Report Bug</a>
     ·
@@ -44,74 +45,61 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
+      <a href="#mesh-tools">Mesh Tools</a>
+      <!-- <ul>
         <li><a href="#built-with">Built With</a></li>
-      </ul>
+      </ul> -->
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#simulation-solvers">Simulation Solvers</a></li>
+    <li><a href="#optimization-toolkits">Optimization Toolkits</a></li>
+    <li><a href="#visualization-tools">Visualization Tools</a></li>
+    <li><a href="#documentation-tools">Documentation Tools</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <!-- <li><a href="#acknowledgements">Acknowledgements</a></li> -->
   </ol>
 </details>
 
 
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-
 <!-- GETTING STARTED -->
-## Getting Started
+## Mesh Tools :
 
-To get a local copy up and running follow these simple steps.
+[SALOME](https://www.salome-platform.org/) - Meshing software with a Python interface.
 
-### Prerequisites
+[meshIO](https://github.com/nschloe/meshio) - To convert between many mesh formats.
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+## Simulation solvers :
 
-### Installation
+[SU2](https://su2code.github.io/) - A quick-start multiphysics simulation tool.
 
-1. Clone the awesome-computational-science
-   ```sh
-   git clone https://github.com/ashwin-nayak/awesome-computational-science.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+[OpenFOAM](https://openfoam.org/) - Popular C++ solver for fluid dynamics.
 
+[FEniCS](https://fenicsproject.org/) - Popular C++ Finite Element library with a Python API.
 
+[Pencil-Code](https://github.com/pencil-code/pencil-code) - FORTRAN based high-order finite difference solver for compressible flows.
 
-<!-- USAGE EXAMPLES -->
-## Usage
+## Optimization Toolkits :
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+[Casadi](https://web.casadi.org/) - Optimization and Algorithmic Differentiation framework.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+[JAX](https://opensource.google/projects/jax) - Python package for JIT and Algorithmic Differentiation.
 
+[COIN-OR](https://www.coin-or.org/) - A collection of Open-source Optimization tools.
 
+## Visualization Tools :
 
-<!-- ROADMAP -->
-## Roadmap
+[Plotly](https://plot.ly/python) and [Dash](https://dash.plot.ly/) - Plotting libraries available in various languages.
 
-See the [open issues](https://github.com/ashwin-nayak/awesome-computational-science/issues) for a list of proposed features (and known issues).
+[Paraview](https://www.paraview.org/) - An all-purpose Visualization tool which is sophisticated, yet simple to use. 
 
+## Documentation Tools :
 
+[Pandoc](https://pandoc.org/) - Swiss-army knife for maitaining portable documentation.
+
+[IPE Editor](http://ipe.otfried.org/) - Vector graphics canvas to produce publishing quality illustrations.
+
+[MkDocs](https://www.mkdocs.org/) - Markdown-based software documentation and manuals.
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -125,7 +113,6 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
 <!-- LICENSE -->
 ## License
 
@@ -136,18 +123,18 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@4sh_N](https://twitter.com/4sh_N) - email
+Ashwin Nayak - [@4sh_N](https://twitter.com/4sh_N) - ashwin.nayak[at]udc.es
 
 Project Link: [https://github.com/ashwin-nayak/awesome-computational-science](https://github.com/ashwin-nayak/awesome-computational-science)
 
 
-
-<!-- ACKNOWLEDGEMENTS -->
+<!-- 
+ACKNOWLEDGEMENTS
 ## Acknowledgements
 
 * []()
 * []()
-* []()
+* []() -->
 
 
 
