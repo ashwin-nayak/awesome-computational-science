@@ -7,13 +7,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-
+ -->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -32,7 +32,6 @@
     <a href="https://github.com/ashwin-nayak/awesome-computational-science/issues">Contribute</a>
   </p>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -60,7 +59,15 @@
 
 
 <!-- GETTING STARTED -->
+## Programming Languages
+- [C++](https://github.com/fffaraz/awesome-cpp) ![Mentioned in Awesome <INSERT LIST NAME>](https://awesome.re/mentioned-badge.svg)
+- [Python](https://github.com/TomNicholas/Python-for-Scientists)
+- [Julia](https://github.com/SubhadityaMukherjee/awesomeJulia)
+- [R]()
 
+## Relevant Courses
+- [Stephen Boyd](https://web.stanford.edu/~boyd/teaching.html)'s courses on Matrix methods and optimization
+- 
 
 ## Programming for Performance
 - [How to write Fast Numeric Code](https://acl.inf.ethz.ch/teaching/fastcode/) - ETH Zurich Course. 
@@ -104,7 +111,7 @@
 
 ## Documentation Tools
 
-- [Pandoc](https://pandoc.org/) - Swiss-army knife for maitaining portable documentation.
+- [Pandoc](https://pandoc.org/) - Swiss-army knife for maintaining portable documentation.
 - [IPE Editor](http://ipe.otfried.org/) - Vector graphics canvas to produce publishing quality illustrations.
 - [MkDocs](https://www.mkdocs.org/) - Markdown-based software documentation and manuals.
 
@@ -121,6 +128,13 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the CC0 License. See [`LICENSE`](https://github.com/ashwin-nayak/awesome-computational-science/blob/main/LICENSE.txt) file for more information.
+
+
+
+---
+<br/>
+
+Also check [#awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) thread for more!
 
 
 
