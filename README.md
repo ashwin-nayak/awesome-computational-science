@@ -112,7 +112,7 @@
 - Peter Buhlmann's course on [Statistical Modeling](https://stat.ethz.ch/lectures/as20/stat-modelling.php).
 - [Wolfgang Bangerth](https://www.math.colostate.edu/~bangerth/teaching.html)'s courses on Modelling, PDEs and optimization.
 - [How to write Fast Numeric Code](https://acl.inf.ethz.ch/teaching/fastcode/) Course. 
-- - [CSELab@ETHZurich Courses](https://www.cse-lab.ethz.ch/teaching/)
+- [CSELab@ETHZurich Courses](https://www.cse-lab.ethz.ch/teaching/)
 - [Cornell Virtual Workshop](https://cvw.cac.cornell.edu/topics) - Numerous tutorials/guides from beginner to advanced. 
 - [Texas Advanced Computing Center](https://learn.tacc.utexas.edu/) - Online courses on parallel programming/HPC
 - [CSCS.ch on Youtube](https://www.youtube.com/user/cscsch/playlists) - Youtube Videos with plenty useful HPC/Adv programmming content.
