@@ -28,8 +28,8 @@
     List of tools for Computational Science, Mathematics and Engineering
     <br />
     OPEN SOURCE CONTENT ONLY!
-    <br />
-    <a href="https://github.com/ashwin-nayak/awesome-computational-science/issues">Contribute</a>
+    <!-- <br />
+    <a href="https://github.com/ashwin-nayak/awesome-computational-science/issues">Contribute</a> -->
   </p>
 </p>
 
@@ -65,17 +65,6 @@
 - [Julia](https://github.com/SubhadityaMukherjee/awesomeJulia)
 - [R]()
 
-## Relevant Courses
-- [Stephen Boyd](https://web.stanford.edu/~boyd/teaching.html)'s courses on Matrix methods and optimization
-- 
-
-## Programming for Performance
-- [How to write Fast Numeric Code](https://acl.inf.ethz.ch/teaching/fastcode/) - ETH Zurich Course. 
-- [Cornell Virtual Workshop](https://cvw.cac.cornell.edu/topics) - Numerous tutorials/guides from beginner to advanced. 
-- [Texas Advanced Computing Center](https://learn.tacc.utexas.edu/) - Online courses on parallel programming/HPC
-- [CSCS.ch on Youtube](https://www.youtube.com/user/cscsch/playlists) - Youtube Videos with plenty useful HPC/Adv programmming content.
-
-
 
 ## Mesh Tools
 
@@ -109,12 +98,24 @@
 
 
 
-## Documentation Tools
+## Documentation
+[Tips for Reproducible Research](https://nbis-reproducible-research.readthedocs.io/en/latest/)
 
 - [Pandoc](https://pandoc.org/) - Swiss-army knife for maintaining portable documentation.
 - [IPE Editor](http://ipe.otfried.org/) - Vector graphics canvas to produce publishing quality illustrations.
 - [MkDocs](https://www.mkdocs.org/) - Markdown-based software documentation and manuals.
+  
 
+## Relevant Course Materials
+- [Stephen Boyd](https://web.stanford.edu/~boyd/teaching.html)'s courses on Matrix methods and Optimization.
+- Ralf Hiptmair's course on [Numerical Partial Differential Equations course materials](https://github.com/erickschulz/NPDECODES)
+- Peter Buhlmann's course on [Statistical Modeling](https://stat.ethz.ch/lectures/as20/stat-modelling.php).
+- [Wolfgang Bangerth](https://www.math.colostate.edu/~bangerth/teaching.html)'s courses on Modelling, PDEs and optimization.
+- [How to write Fast Numeric Code](https://acl.inf.ethz.ch/teaching/fastcode/) Course. 
+- - [CSELab@ETHZurich Courses](https://www.cse-lab.ethz.ch/teaching/)
+- [Cornell Virtual Workshop](https://cvw.cac.cornell.edu/topics) - Numerous tutorials/guides from beginner to advanced. 
+- [Texas Advanced Computing Center](https://learn.tacc.utexas.edu/) - Online courses on parallel programming/HPC
+- [CSCS.ch on Youtube](https://www.youtube.com/user/cscsch/playlists) - Youtube Videos with plenty useful HPC/Adv programmming content.
 
 
 <!-- CONTRIBUTING -->
@@ -129,33 +130,19 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the CC0 License. See [`LICENSE`](https://github.com/ashwin-nayak/awesome-computational-science/blob/main/LICENSE.txt) file for more information.
 
-
+<br />
 
 ---
-<br/>
 
-Also check [#awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) thread for more!
+## Other lists of interest
 
-
-
-<!-- CONTACT
-## Contact
-
-Ashwin Nayak - [@4sh_N](https://twitter.com/4sh_N) - ashwin.nayak[at]udc.es
-
-Project Link: [https://github.com/ashwin-nayak/awesome-computational-science](https://github.com/ashwin-nayak/awesome-computational-science)
- -->
-
-<!-- 
-ACKNOWLEDGEMENTS
-## Acknowledgements
-
-* []()
-* []()
-* []() -->
-
-
-
+- [#awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) 
+- [#awesome-math](https://github.com/rossant/awesome-math)
+- [#awesome-datascience](https://github.com/academic/awesome-datascience)
+- [#awesome-statistics-software](https://github.com/SNStatComp/awesome-official-statistics-software)
+- [#awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science)
+- [#awesome-computational-geometry](https://github.com/atkirtland/awesome-computational-geometry)
+- [#awesome-quantum-computation](https://github.com/hsavit1/Awesome-Quantum-Computation)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
