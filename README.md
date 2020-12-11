@@ -44,14 +44,14 @@
         <li><a href="#built-with">Built With</a></li>
       </ul> -->
     </li>
-    <li><a href="#programming-for-performance">Programming for performance</a></li>
     <li><a href="#simulation-solvers">Simulation Solvers</a></li>
     <li><a href="#optimization-toolkits">Optimization Toolkits</a></li>
     <li><a href="#visualization-tools">Visualization Tools</a></li>
     <li><a href="#documentation-tools">Documentation Tools</a></li>
+    <li><a href="#course-materials">Course Materials</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#other-lists-of-interest">Other Lists of interest</a></li>
     <!-- <li><a href="#acknowledgements">Acknowledgements</a></li> -->
   </ol>
 </details>
@@ -106,7 +106,7 @@
 - [MkDocs](https://www.mkdocs.org/) - Markdown-based software documentation and manuals.
   
 
-## Relevant Course Materials
+## Course Materials
 - [Stephen Boyd](https://web.stanford.edu/~boyd/teaching.html)'s courses on Matrix methods and Optimization.
 - Ralf Hiptmair's course on [Numerical Partial Differential Equations course materials](https://github.com/erickschulz/NPDECODES)
 - Peter Buhlmann's course on [Statistical Modeling](https://stat.ethz.ch/lectures/as20/stat-modelling.php).
