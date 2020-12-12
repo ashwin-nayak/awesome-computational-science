@@ -122,7 +122,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the CC0 License. See [`LICENSE`](https://github.com/ashwin-nayak/awesome-computational-science/blob/main/LICENSE.txt) file for more information.
+Distributed under the CC0 License. See [`LICENSE`](https://github.com/ashwin-nayak/awesome-computational-science/blob/main/LICENSE) file for more information.
 
 <br />
 
@@ -150,4 +150,4 @@ Distributed under the CC0 License. See [`LICENSE`](https://github.com/ashwin-nay
 [issues-shield]: https://img.shields.io/github/issues/ashwin-nayak/awesome-computational-science.svg?style=for-the-badge
 [issues-url]: https://github.com/ashwin-nayak/awesome-computational-science/issues
 [license-shield]: https://img.shields.io/github/license/ashwin-nayak/awesome-computational-science.svg?style=for-the-badge
-[license-url]: https://github.com/ashwin-nayak/awesome-computational-science/blob/main/LICENSE.txt
+[license-url]: https://github.com/ashwin-nayak/awesome-computational-science/blob/main/LICENSE
