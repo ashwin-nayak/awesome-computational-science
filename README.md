@@ -45,6 +45,8 @@
       </ul> -->
     </li>
     <li><a href="#simulation-solvers">Simulation Solvers</a></li>
+    <li><a href="#ode-solvers">ODE Solvers</a></li>
+    <li><a href="#nonlinear-solvers">Nonlinear Solvers</a></li>
     <li><a href="#optimization-toolkits">Optimization Toolkits</a></li>
     <li><a href="#visualization-tools">Visualization Tools</a></li>
     <li><a href="#documentation-tools">Documentation Tools</a></li>
@@ -68,19 +70,47 @@
 
 ## Mesh Tools
 
-- [SALOME](https://www.salome-platform.org/) - Meshing software with a Python interface.
+- [SALOME](https://www.salome-platform.org/) - Meshing software with a GUI and a Python CLI.
+- [gmsh](https://gmsh.info/) - Scalable open-source meshing software with interfaces in various languages. [[repository](https://gitlab.onelab.info/gmsh/gmsh/)]
 - [meshIO](https://github.com/nschloe/meshio) - To convert between many mesh formats.
-
 
 
 ## Simulation solvers
 
+### Finite element toolkits
+  - [FEniCS](https://fenicsproject.org/) - in Python. [[repository](https://github.com/FEniCS/dolfinx)]
+  - [MFEM](https://mfem.org/)
+  - [deal-ii](https://www.dealii.org/) - C++ based finite element library with a very good interface for coupled problems.
+  - [NGSolve](https://ngsolve.org/) - in Python.
+  - [Moose](https://mooseframework.inl.gov/)
+  - [KratosMultiphysics](https://github.com/KratosMultiphysics/Kratos)
+  - [GridAP.jl](https://github.com/gridap/Gridap.jl)
+
+### Miscellaneous
 - [SU2](https://su2code.github.io/) - A quick-start multiphysics simulation tool.
 - [OpenFOAM](https://openfoam.org/) - Popular C++ solver for fluid dynamics.
-- [FEniCS](https://fenicsproject.org/) - Popular C++ Finite Element library with a Python API.
 - [Pencil-Code](https://github.com/pencil-code/pencil-code) - FORTRAN based high-order finite difference solver for compressible flows.
 - [VCell](https://vcell.org/) - Biological Systems modelling
 
+## ODE Solvers
+
+- [Sundials](https://sundials.readthedocs.io) by Lawrence Livermore National Labs, USA.
+- [Trilinos](https://trilinos.github.io/) by SANDIA National Labs, USA.
+- [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/) by far the most extensive collection and is modern. In Julia.
+
+## Nonlinear Solvers
+
+While there a lot of non-linear solvers out there, the choices are restricted based on the difficulty of computing the Jacobians.
+Analytically obtained Jacobians are preferred, but are not easily obtained sometimes.
+Automatic differentiation can sometimes be crucial for harder to differentiate functions.
+The fallback is numeric differentiation solved using finite difference approximations.
+
+- [Ceres Solver](http://ceres-solver.org/) with a good C++ API but not as many solver choices. Offers auto-diff and numeric-diff.
+- [GNU Scientific Library](https://www.gnu.org/software/gsl/doc/html/index.html) a collection of many solvers and tools.
+- [MINPACK](https://www.netlib.org/minpack/) is quite old, in FORTRAN, but still extensively used. Includes numeric diff.
+- [PETSc SNES](https://petsc.org/release/manualpages/SNES/) - derivative computation through their Python interface can be tricky.
+- [NonlinearSolve.jl](https://docs.sciml.ai/NonlinearSolve/stable/)
+- [SciPy](https://docs.scipy.org/)
 
 ## Optimization Toolkits
 
@@ -89,13 +119,12 @@
 - [COIN-OR](https://www.coin-or.org/) - A collection of Open-source Optimization tools.
 - [OSQP](https://osqp.org/) - A Quadratic Programming solver (NEW!)
 
-
-
 ## Visualization Tools
 
 - [Plotly](https://plot.ly/python) and [Dash](https://dash.plot.ly/) - Plotting libraries available in various languages.
-- [Paraview](https://www.paraview.org/) - An all-purpose Visualization tool which is sophisticated, yet simple to use. 
-
+- [Paraview](https://www.paraview.org/) - An all-purpose Visualization tool which is sophisticated, yet simple to use.
+- [Visit](https://visit-dav.github.io/visit-website/index.html)
+- [PyVista](https://docs.pyvista.org/)
 
 
 ## Documentation
@@ -104,7 +133,7 @@
 - [Pandoc](https://pandoc.org/) - Swiss-army knife for maintaining portable documentation.
 - [IPE Editor](http://ipe.otfried.org/) - Vector graphics canvas to produce publishing quality illustrations.
 - [MkDocs](https://www.mkdocs.org/) - Markdown-based software documentation and manuals.
-  
+
 
 ## Course Materials
 - [Stephen Boyd](https://web.stanford.edu/~boyd/teaching.html)'s courses on Matrix methods and Optimization.
