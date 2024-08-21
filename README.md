@@ -1,11 +1,3 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -28,8 +20,6 @@
     List of tools for Computational Science, Mathematics and Engineering
     <br />
     OPEN SOURCE CONTENT ONLY!
-    <!-- <br />
-    <a href="https://github.com/ashwin-nayak/awesome-computational-science/issues">Contribute</a> -->
   </p>
 </p>
 
@@ -40,9 +30,6 @@
   <ol>
     <li>
       <a href="#mesh-tools">Mesh Tools</a>
-      <!-- <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul> -->
     </li>
     <li><a href="#simulation-solvers">Simulation Solvers</a></li>
     <li><a href="#ode-solvers">ODE Solvers</a></li>
@@ -54,7 +41,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#other-lists-of-interest">Other Lists of interest</a></li>
-    <!-- <li><a href="#acknowledgements">Acknowledgements</a></li> -->
   </ol>
 </details>
 
@@ -62,10 +48,9 @@
 
 <!-- GETTING STARTED -->
 ## Programming Languages
-- [C++](https://github.com/fffaraz/awesome-cpp) ![Mentioned in Awesome <INSERT LIST NAME>](https://awesome.re/mentioned-badge.svg)
+- [C++](https://github.com/fffaraz/awesome-cpp) ![Mentioned-badge](https://awesome.re/mentioned-badge.svg)
 - [Python](https://github.com/TomNicholas/Python-for-Scientists)
 - [Julia](https://github.com/SubhadityaMukherjee/awesomeJulia)
-- [R]()
 
 
 ## Mesh Tools
@@ -121,11 +106,13 @@ The fallback is numeric differentiation solved using finite difference approxima
 
 ## Visualization Tools
 
-- [Plotly](https://plot.ly/python) and [Dash](https://dash.plot.ly/) - Plotting libraries available in various languages.
-- [Paraview](https://www.paraview.org/) - An all-purpose Visualization tool which is sophisticated, yet simple to use.
-- [Visit](https://visit-dav.github.io/visit-website/index.html)
+- [Matplotlib](https://matplotlib.org/) - popular Python based library.
+- [TikZ/PGFPlots](https://tikz.dev/) - LateX based with some interfaces. Best for articles.
+- [Plotly](https://plot.ly/graphing-libraries/) and [Dash](https://dash.plotly.com) - Plotting libs in Javascript, with various language interfaces.
+- [Paraview](https://www.paraview.org/) - An all-purpose visualization tool which is sophisticated, yet simple to use.
+- [Visit](https://visit-dav.github.io/visit-website)
 - [PyVista](https://docs.pyvista.org/)
-
+- [GLVis](https://glvis.org/) - FEM data visualization
 
 ## Documentation
 [Tips for Reproducible Research](https://nbis-reproducible-research.readthedocs.io/en/latest/)
@@ -140,9 +127,9 @@ The fallback is numeric differentiation solved using finite difference approxima
 - Ralf Hiptmair's course on [Numerical Partial Differential Equations course materials](https://github.com/erickschulz/NPDECODES)
 - Peter Buhlmann's course on [Statistical Modeling](https://stat.ethz.ch/lectures/as20/stat-modelling.php).
 - [Wolfgang Bangerth](https://www.math.colostate.edu/~bangerth/teaching.html)'s courses on Modelling, PDEs and optimization.
-- [How to write Fast Numeric Code](https://acl.inf.ethz.ch/teaching/fastcode/) Course. 
+- [How to write Fast Numeric Code](https://acl.inf.ethz.ch/teaching/fastcode/) Course.
 - [CSELab@ETHZurich Courses](https://www.cse-lab.ethz.ch/teaching/)
-- [Cornell Virtual Workshop](https://cvw.cac.cornell.edu/topics) - Numerous tutorials/guides from beginner to advanced. 
+- [Cornell Virtual Workshop](https://cvw.cac.cornell.edu/topics) - Numerous tutorials/guides from beginner to advanced.
 - [Texas Advanced Computing Center](https://learn.tacc.utexas.edu/) - Online courses on parallel programming/HPC
 - [CSCS.ch on Youtube](https://www.youtube.com/user/cscsch/playlists) - Youtube Videos with plenty useful HPC/Adv programmming content.
 
@@ -165,7 +152,7 @@ Distributed under the CC0 License. See [`LICENSE`](https://github.com/ashwin-nay
 
 ## Other lists of interest
 
-- [#awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) 
+- [#awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing)
 - [#awesome-math](https://github.com/rossant/awesome-math)
 - [#awesome-datascience](https://github.com/academic/awesome-datascience)
 - [#awesome-statistics-software](https://github.com/SNStatComp/awesome-official-statistics-software)
