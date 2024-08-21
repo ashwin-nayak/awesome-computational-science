@@ -87,7 +87,7 @@
 
 While there a lot of non-linear solvers out there, the choices are restricted based on the difficulty of computing the Jacobians.
 Analytically obtained Jacobians are preferred, but are not easily obtained sometimes.
-Automatic differentiation can sometimes be crucial for harder to differentiate functions.
+Automatic differentiation can be crucial for harder-to-differentiate functions.
 The fallback is numeric differentiation solved using finite difference approximations.
 
 - [Ceres Solver](http://ceres-solver.org/) with a good C++ API but not as many solver choices. Offers auto-diff and numeric-diff.
