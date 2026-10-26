@@ -70,6 +70,7 @@
   - [Moose](https://mooseframework.inl.gov/)
   - [KratosMultiphysics](https://github.com/KratosMultiphysics/Kratos)
   - [GridAP.jl](https://github.com/gridap/Gridap.jl)
+  - [AgentFEM](https://github.com/haoming-luo/agentfem) - Python finite-element workflow built on FEniCSx, with editable models and CLI tools for checking, running and inspecting simulations; requires a local solver environment.
 
 ### Miscellaneous
 - [SU2](https://su2code.github.io/) - A quick-start multiphysics simulation tool.
